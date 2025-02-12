@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "@google/generative-ai": "^0.21.0",
-    "generative-ai": "^0.1.4"
+    "@tailwindcss/vite": "^4.0.6",
+    "generative-ai": "^0.1.4",
+    "tailwindcss": "^4.0.6"
   }
 }
